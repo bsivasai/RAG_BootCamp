@@ -25,6 +25,7 @@ rank_bm25
 wikipedia
 langgraph
 google.generativeai
+transformers
 
 
 
